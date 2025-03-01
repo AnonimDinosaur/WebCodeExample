@@ -1,7 +1,7 @@
 My Research Project Website
 
 This repository contains the HTML and CSS code for my website, dedicated to presenting my high school research project (TDR),
-in the website you can take a look at our custom mod of our school’s courtyard (Escola Pia Sabadell)
+in the website you can take a look at our custom mod of our school’s courtyard 
 for the racing simulator Assetto Corsa. This mod allows users to drive cars on a detailed track modeled after my school’s courtyard,
 providing an immersive experience that combines research with interactive gameplay.
 
